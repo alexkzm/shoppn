@@ -1,0 +1,6 @@
+{
+  "name": "shoppn",
+  "short_name": "shoppn",
+  "start_url": "/",
+  "display": "standalone"
+}
